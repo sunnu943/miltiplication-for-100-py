@@ -1,0 +1,1 @@
+# miltiplication-for-100-py
